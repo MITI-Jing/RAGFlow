@@ -1,4 +1,4 @@
-# RAGFlow
+# RAGFlow in docker
 
 https://github.com/infiniflow/ragflow
 
