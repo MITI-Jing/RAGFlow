@@ -2,6 +2,8 @@
 
 https://github.com/infiniflow/ragflow
 
+## start docker container
+
 ## runs ragflow in docker after setting up to ensure a successful launch of the system before enter username and password.
 $ cd ragflow/docker
 
