@@ -2,11 +2,11 @@
 
 https://github.com/infiniflow/ragflow
 
-## start docker container
+## 1. start docker container
 ![image](https://github.com/user-attachments/assets/46116eee-e301-427e-800a-2ea049c16b39)
 
 
-## runs ragflow in docker after setting up to ensure a successful launch of the system before enter username and password.
+## 2. runs ragflow in docker after setting up to ensure a successful launch of the system before enter username and password.
 $ cd ragflow/docker
 
 $ docker compose -f docker-compose.yml up -d
